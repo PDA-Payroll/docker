@@ -1,0 +1,10 @@
+{
+	"employeeFirstName": "test",
+	"employeeMiddleName": "ash",
+	"employeeLastName": "slame",
+	"employeeUserName": "poopDeck",
+	"employeePassword": "sea",
+	"isAdmin": "yes",
+	"socialSecurityNumber": "555555555",
+	"supervisorId": "1"
+}
